@@ -1,2 +1,2 @@
-# Sent.AI Core: Multifunctional Sentiment Analysis
+# Sent.AI Core: Multiple Aspects Sentiment Analysis
  
