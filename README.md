@@ -1,2 +1,2 @@
-# sent-ai-core
+# Sent.AI Core: Multifunctional Sentiment Analysis
  
