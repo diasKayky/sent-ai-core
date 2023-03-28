@@ -1,2 +1,2 @@
-# Sent.AI Core: Multiple Aspects Sentiment Analysis
+# Sent.AI: All-in-One Sentiment Analysis Tool
  
