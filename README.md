@@ -1,2 +1,2 @@
-# Sent.AI: All-in-One Sentiment Analysis Tool
+# Sent.AI: AI-powered Social Media Tool
  
