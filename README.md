@@ -1,2 +1,2 @@
-# Sent.AI: AI-powered Social Media Tool
+# Sent.AI: AI-Powered Social Media Tool
  
