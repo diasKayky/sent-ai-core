@@ -6,7 +6,7 @@
 
 > Sent.AI é uma ferramenta de NLP (processamento de linguagem natural) para auxliar analistas de social media com tarefas de classificação de comentários, avaliações e opiniões de produtos/serviços nas redes sociais; ele analisa se o comentário tem uma recomendação, a emoção predominante e o sentimento geral. Sent.AI é um modelo ensemble de IA — seu core são duas redes neurais artificiais (ANNs) e uma floresta aleatória (RF). 
 
-## Roadmap do Projeto
+## 🚧 Roadmap do Projeto
 
 1. Limpeza e Exploração dos Conjuntos de Dados
 2. Preprocessamento dos dados que serão utilizados pelos modelos
